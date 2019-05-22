@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/104muWQMZ5dhJk5Db11K1iz3s1JI7-q-b/view?usp=sharing">
+<img src="https://imgur.com/CSQVgpp">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -42,9 +42,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Demo App
+
+Link: [Todo List Demo App](https://drive.google.com/file/d/1tGlvGPQu1C3dp8AFk45z099SSb2n7Af8/view?usp=sharing)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Author
+
+Sumin Yu - [Github: sumin3](https://github.com/sumin3)
+Bobby Yang - [Github: p0x6](https://github.com/p0x6)
