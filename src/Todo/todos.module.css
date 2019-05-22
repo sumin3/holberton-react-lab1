@@ -1,0 +1,20 @@
+.addTodos {
+  background: red;
+}
+.todo-container{
+  text-align: center;
+}
+.input-box-container{
+  width: 50%;
+  margin: auto;
+  display: flex;
+}
+.close-btn{
+  color: #9b4dca;
+}
+.close-btn:hover{
+  color: red;
+}
+.todo-title{
+  color: #9b4dca;
+}
