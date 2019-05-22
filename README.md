@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/file/d/104muWQMZ5dhJk5Db11K1iz3s1JI7-q-b/view?usp=sharing">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ***Instructions for the homework is here***:
@@ -45,3 +47,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
