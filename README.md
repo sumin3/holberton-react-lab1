@@ -1,4 +1,4 @@
-<img src="https://imgur.com/CSQVgpp">
+<img src="https://i.imgur.com/CSQVgpp.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
