@@ -1,6 +1,6 @@
 import React, { Component, ReactElement } from 'react';
 import styles from './todos.module.css';
-import { TodoItem } from './todo-app'
+import { TodoItem } from './todo-app';
 
 export interface MyValue {
   todoText: string;

@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react';
 import Todo from './todo';
-import { TodoItem } from './todo-app'
+import { TodoItem } from './todo-app';
 
 interface TodoListInput {
   todos: TodoItem[];
