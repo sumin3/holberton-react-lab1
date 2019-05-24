@@ -4,11 +4,11 @@ import AddTodo from './add-todo';
 import TodoList from './todo-list';
 import styles from './todos.module.css';
 
-interface TodoItem {
+export interface TodoItem {
   text: string;
   id: number;
 }
-interface Todo {
+export interface Todo {
   todos: TodoItem[];
 }
 

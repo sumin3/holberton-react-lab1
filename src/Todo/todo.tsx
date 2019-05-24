@@ -1,7 +1,12 @@
-import React from 'react';
+import React, { ReactElement } from 'react';
 import styles from './todos.module.css';
+import { TodoItem } from './todo-app'
 
-const Todo = ({ todo, remove }) => (
+interface TodoProps {
+  todo: TodoItem;
+  remove: (id: number) => void;
+}
+const Todo = ({ todo, remove }: TodoProps) : ReactElement => (
   <p>
     {todo.text}
     <span

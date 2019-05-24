@@ -1,10 +1,7 @@
 import React, { ReactElement } from 'react';
 import Todo from './todo';
+import { TodoItem } from './todo-app'
 
-interface TodoItem {
-  text: string;
-  id: number;
-}
 interface TodoListInput {
   todos: TodoItem[];
   handleRemove(id: number): void;
